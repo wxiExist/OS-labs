@@ -150,7 +150,6 @@ int main(int argc, char* argv[])
     }
    
     
-    // Free resources
     free(matrix);
     free(temp);
     free(kernel);
