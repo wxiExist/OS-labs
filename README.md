@@ -34,7 +34,7 @@
 Пример команды:
 ```bash
 main.exe <rows> <cols> <kernelSize> <K> <maxThreads>
-main.exe 2000 2000 7 5 8
+main.exe 15 15 2 8 4
 
 
 ```
